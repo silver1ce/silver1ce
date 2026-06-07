@@ -1,114 +1,138 @@
-<div align="center">
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jahangir%20Alam&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Engineer%20%26%20AI%20Builder&descAlignY=55&descSize=17"/>
+</p>
 
-# Jahangir Alam
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Building+scalable+data+platforms+on+Azure;Azure+Databricks+%7C+PySpark+%7C+ETL;Turning+raw+data+into+trusted%2C+AI-ready+insights" alt="Typing SVG" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahang-alam/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/silver1ce)
-[![Location](https://img.shields.io/badge/Helsinki%2C%20Finland-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+<p align="center">
+  <a href="https://www.linkedin.com/in/jahang-alam/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/silver1ce"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://img.shields.io/badge/Helsinki%2C%20Finland-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Data+Engineer+%26+AI+Builder;Azure+Databricks+%7C+PySpark+%7C+ETL;Turning+raw+data+into+trusted%2C+AI-ready+platforms" alt="Typing SVG" />
+<br/>
 
-</div>
-
----
-
-### About me
-
-- **Data Engineer at Capgemini** — building scalable pipelines on Azure Databricks, Data Factory, and PySpark for Nordic clients
-- **AI practitioner** — selected for the **RIOT Labs AI Accelerator**; working with LLMs, agentic AI (MCP/RAG), and Glean agent building
-- **Career pivot with purpose** — moved from operations leadership into data & AI; bring cross-functional collaboration and a builder's mindset to every team
-- **Certified & curious** — Databricks Data Engineer Associate, Google Looker badges, and always exploring the modern data stack
-
----
-
-### Tech stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-**Frameworks & Libraries**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-**Data & AI Platforms**
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white)
-
-**Tools & Practices**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-
----
-
-### GitHub stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=silver1ce&theme=default&hide_border=true" alt="GitHub streak" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silver1ce&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top languages" width="48%" />
-
-</div>
-
----
-
-### Featured projects
-
-<table>
+<!-- Hero: Avatar + About -->
+<table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="220" align="center" valign="top">
+  <img src="https://github.com/silver1ce.png" width="180" alt="Jahangir Alam"/>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=silver1ce&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile views"/>
+</td>
+<td width="520" valign="top">
+
+### 👋 Hi, I'm Jahangir
+
+Data Engineer & AI practitioner based in **Helsinki**, building production-grade data platforms and intelligent systems for Nordic clients at **Capgemini**.
+
+- 🔭 Selected for **RIOT Labs AI Accelerator** — delivering AI-powered solutions across the Nordics
+- 🧠 Experienced with **LLMs, RAG, agentic AI (MCP)**, and Glean agent building
+- 🔄 Career pivot with purpose — 12+ years in operations leadership, now focused on data & AI
+- 🎓 **Databricks Certified Data Engineer Associate** · Google Looker · Advanced SQL
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Tech Stack -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=6366f1&height=40&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20Tech%20Stack&fontSize=22&fontColor=fff&animation=fadeIn"/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,azure,databricks,docker,fastapi,react,postgres,git,github,linux,pytorch&perline=7" alt="Tech stack icons"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark"/>
+  <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="ADF"/>
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt"/>
+  <img src="https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white" alt="Looker"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+</p>
+
+<br/>
+
+<!-- GitHub Stats -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=6366f1&height=40&section=header&text=%F0%9F%93%8A%20GitHub%20Stats&fontSize=22&fontColor=fff&animation=fadeIn"/>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=silver1ce&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=silver1ce&theme=react&hide_border=true" alt="GitHub streak"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silver1ce&layout=compact&theme=react&hide_border=true&langs_count=8" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=silver1ce&theme=react&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution graph"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/silver1ce/silver1ce/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
+
+<br/>
+
+<!-- Featured Projects -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=6366f1&height=40&section=header&text=%F0%9F%9A%80%20Featured%20Projects&fontSize=22&fontColor=fff&animation=fadeIn"/>
+
+<table align="center">
+<tr>
+<td width="400" valign="top">
 
 #### [`ecb-exchange-rate-pipeline`](https://github.com/silver1ce/ecb-exchange-rate-pipeline)
 
-Production-grade pipeline ingesting ECB exchange rates → PostgreSQL → **FastAPI REST API**, with CI, data quality checks, and Alembic migrations.
+Production-grade ECB exchange rate ingestion → PostgreSQL → **FastAPI REST API**, with CI, data quality checks, and Alembic migrations.
+
+<br/>
 
 `Python` · `FastAPI` · `PostgreSQL` · `Docker` · `GitHub Actions`
+
+<br/>
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/silver1ce/ecb-exchange-rate-pipeline)
 
 </td>
-<td width="50%" valign="top">
+<td width="400" valign="top">
 
 #### [`prh-company-search`](https://github.com/silver1ce/prh-company-search)
 
-Full-stack app for searching Finnish companies via the PRH open data API — **React + TypeScript** frontend, **FastAPI** backend, Playwright E2E, and CI.
+Full-stack Finnish company search via PRH open data — **React + TypeScript** frontend, **FastAPI** backend, Playwright E2E, and CI.
+
+<br/>
 
 `React` · `TypeScript` · `FastAPI` · `Playwright` · `Tailwind CSS`
+
+<br/>
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/silver1ce/prh-company-search)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="400" valign="top">
 
 #### Enterprise AI & Data Platforms
 
-At **Capgemini** and **Helen**, built LLM-powered synthetic data pipelines for anonymization, ETL workflows on Azure Databricks, and agentic AI solutions through the RIOT Labs AI Accelerator.
+LLM-powered **synthetic data** pipelines for anonymization, ETL on Azure Databricks, and agentic AI through the **RIOT Labs AI Accelerator**.
+
+<br/>
 
 `Azure Databricks` · `PySpark` · `LLMs` · `ETL` · `Agentic AI`
 
 </td>
-<td width="50%" valign="top">
+<td width="400" valign="top">
 
 #### Certifications
 
-Databricks Certified Data Engineer Associate · Databricks Lakehouse Fundamentals · Google Looker Skill Badges · Advanced SQL · SAS Programming Essentials
+Databricks Data Engineer Associate · Lakehouse Fundamentals · Google Looker Skill Badges · Advanced SQL · SAS Programming Essentials
+
+<br/>
 
 [![Databricks](https://img.shields.io/badge/Databricks_Certified-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://credentials.databricks.com/)
 
@@ -116,34 +140,31 @@ Databricks Certified Data Engineer Associate · Databricks Lakehouse Fundamental
 </tr>
 </table>
 
----
+<br/>
 
-### Currently
+<!-- Currently -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=6366f1&height=40&section=header&text=%F0%9F%92%A1%20Currently&fontSize=22&fontColor=fff&animation=fadeIn"/>
 
-```text
-🔭  Working on  production data pipelines & agentic AI solutions at Capgemini Nordics
-🌱  Learning     event-driven architectures, dbt, and agent protocols (MCP / RAG / UCP)
-💬  Ask me about Azure Databricks, ETL design, LLM integration, and the modern data stack
-⚡  Fun fact      I transitioned into data engineering after 12+ years in operations — I bring both technical depth and team leadership
+```yaml
+🔭 Working on:  Production data pipelines & agentic AI solutions at Capgemini Nordics
+🌱 Learning:    Event-driven architectures, dbt, and agent protocols (MCP / RAG / UCP)
+💬 Ask me about: Azure Databricks, ETL design, LLM integration, modern data stack
+⚡ Fun fact:     I transitioned into data engineering after 12+ years in operations
 ```
 
----
+<br/>
 
-### Connect
+<!-- Connect -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=6366f1&height=40&section=header&text=%F0%9F%93%AC%20Connect&fontSize=22&fontColor=fff&animation=fadeIn"/>
 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/jahang-alam/"><img src="https://img.shields.io/badge/LinkedIn-jahang--alam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/silver1ce"><img src="https://img.shields.io/badge/GitHub-silver1ce-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jahang--alam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahang-alam/)
-[![GitHub](https://img.shields.io/badge/GitHub-silver1ce-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/silver1ce)
+<br/>
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=silver1ce&color=2F81F7&style=flat-square&label=Profile+Views" alt="Profile views" />
-
-*Building data platforms that teams can trust — and AI that teams can use.*
-
-</div>
+<!-- Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Building%20data%20platforms%20teams%20can%20trust%20%E2%80%94%20and%20AI%20teams%20can%20use.&fontSize=16&fontColor=fff&animation=twinkling"/>
+</p>
