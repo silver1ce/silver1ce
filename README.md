@@ -1,16 +1,22 @@
+<h1 align="center">Jahangir Alam</h1>
+<h3 align="center">Data Engineer · AI Builder · Helsinki, Finland</h3>
+<p align="center">Azure Databricks · Python · SQL · PySpark · ETL · LLMs · Agentic AI · FastAPI · MCP</p>
+
+<!-- Jahangir Alam | Data Engineer | AI Engineer | Helsinki Finland | Azure Databricks | Python | ETL | PySpark | FastAPI | LLM | RAG | MCP -->
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jahang-alam/"><img src="https://img.shields.io/badge/LinkedIn-jahang--alam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Jahangir Alam LinkedIn"/></a>
+  <a href="https://github.com/silver1ce"><img src="https://img.shields.io/badge/GitHub-silver1ce-181717?style=for-the-badge&logo=github&logoColor=white" alt="Jahangir Alam GitHub silver1ce"/></a>
+  <img src="https://img.shields.io/badge/Helsinki%2C%20Finland-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Jahangir Alam Helsinki Finland"/>
+</p>
+
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jahangir%20Alam&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Engineer%20%26%20AI%20Builder&descAlignY=55&descSize=17"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jahangir%20Alam&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Engineer%20%26%20AI%20Builder&descAlignY=58&descSize=16" alt="Jahangir Alam - Data Engineer and AI Builder"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Building+scalable+data+platforms+on+Azure;Azure+Databricks+%7C+PySpark+%7C+ETL;Turning+raw+data+into+trusted%2C+AI-ready+insights" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jahang-alam/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/silver1ce"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <img src="https://img.shields.io/badge/Helsinki%2C%20Finland-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Jahangir+Alam+%7C+Data+Engineer;Building+scalable+data+platforms+on+Azure;Azure+Databricks+%7C+PySpark+%7C+ETL;Turning+raw+data+into+trusted%2C+AI-ready+insights" alt="Jahangir Alam Data Engineer Azure Databricks Python ETL"/>
 </p>
 
 <br/>
@@ -19,18 +25,18 @@
 <table align="center">
 <tr>
 <td width="220" align="center" valign="top">
-  <img src="https://github.com/silver1ce.png" width="180" alt="Jahangir Alam"/>
+  <img src="https://github.com/silver1ce.png" width="180" alt="Jahangir Alam - Data Engineer GitHub Profile"/>
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=silver1ce&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=silver1ce&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Jahangir Alam GitHub profile views"/>
 </td>
 <td width="520" valign="top">
 
-### 👋 Hi, I'm Jahangir
+### 👋 Hi, I'm Jahangir Alam
 
-Data Engineer & AI practitioner based in **Helsinki**, building production-grade data platforms and intelligent systems for Nordic clients.
+**Data Engineer & AI practitioner** in **Helsinki, Finland** — building production-grade data platforms, ETL pipelines, and intelligent AI systems for Nordic clients.
 
-- 🔭 Selected for **RIOT Labs AI Accelerator** — delivering AI-powered solutions across the Nordics
-- 🧠 Experienced with **LLMs, RAG, agentic AI (MCP)**, and Glean agent building
+- 🔭 **RIOT Labs AI Accelerator** — delivering AI-powered data solutions across the Nordics
+- 🧠 **LLMs, RAG, agentic AI (MCP)**, and Glean agent building
 - 🔄 Career pivot with purpose — 12+ years in operations leadership, now focused on data & AI
 - 🎓 **Databricks Certified Data Engineer Associate** · Google Looker · Advanced SQL
 
@@ -41,15 +47,15 @@ Data Engineer & AI practitioner based in **Helsinki**, building production-grade
 <br/>
 
 <!-- Tech Stack -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=6366f1&height=40&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20Tech%20Stack&fontSize=22&fontColor=fff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=6366f1&height=40&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20Tech%20Stack&fontSize=22&fontColor=fff&animation=fadeIn" alt="Jahangir Alam tech stack"/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,azure,databricks,docker,fastapi,react,postgres,git,github,linux,pytorch&perline=7" alt="Tech stack icons"/>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,azure,databricks,docker,fastapi,react,postgres,git,github,linux,pytorch&perline=7" alt="Jahangir Alam Python Azure Databricks FastAPI PostgreSQL"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark"/>
-  <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="ADF"/>
+  <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure Data Factory"/>
   <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt"/>
   <img src="https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white" alt="Looker"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
@@ -60,26 +66,26 @@ Data Engineer & AI practitioner based in **Helsinki**, building production-grade
 <br/>
 
 <!-- GitHub Stats -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=6366f1&height=40&section=header&text=%F0%9F%93%8A%20GitHub%20Stats&fontSize=22&fontColor=fff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=6366f1&height=40&section=header&text=%F0%9F%93%8A%20GitHub%20Stats&fontSize=22&fontColor=fff&animation=fadeIn" alt="Jahangir Alam GitHub stats"/>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=silver1ce&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=silver1ce&theme=react&hide_border=true" alt="GitHub streak"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silver1ce&layout=compact&theme=react&hide_border=true&langs_count=8" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=silver1ce&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=false" alt="Jahangir Alam GitHub statistics silver1ce"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=silver1ce&theme=react&hide_border=true" alt="Jahangir Alam GitHub contribution streak"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silver1ce&layout=compact&theme=react&hide_border=true&langs_count=8" alt="Jahangir Alam top programming languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=silver1ce&theme=react&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=silver1ce&theme=react&hide_border=true&area=true&custom_title=Jahangir%20Alam%20-%20Contribution%20Graph" alt="Jahangir Alam GitHub contribution graph"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/silver1ce/silver1ce/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/silver1ce/silver1ce/output/github-contribution-grid-snake.svg" alt="Jahangir Alam GitHub contribution snake animation"/>
 </p>
 
 <br/>
 
 <!-- Featured Projects -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=6366f1&height=40&section=header&text=%F0%9F%9A%80%20Featured%20Projects&fontSize=22&fontColor=fff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=6366f1&height=40&section=header&text=%F0%9F%9A%80%20Featured%20Projects&fontSize=22&fontColor=fff&animation=fadeIn" alt="Jahangir Alam featured projects"/>
 
 <table align="center">
 <tr>
@@ -143,7 +149,7 @@ Databricks Data Engineer Associate · Lakehouse Fundamentals · Google Looker Sk
 <br/>
 
 <!-- Currently -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=6366f1&height=40&section=header&text=%F0%9F%92%A1%20Currently&fontSize=22&fontColor=fff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=6366f1&height=40&section=header&text=%F0%9F%92%A1%20Currently&fontSize=22&fontColor=fff&animation=fadeIn" alt="Currently working on"/>
 
 ```yaml
 🔭 Working on:  Production data pipelines & agentic AI solutions across the Nordics
@@ -155,16 +161,16 @@ Databricks Data Engineer Associate · Lakehouse Fundamentals · Google Looker Sk
 <br/>
 
 <!-- Connect -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=6366f1&height=40&section=header&text=%F0%9F%93%AC%20Connect&fontSize=22&fontColor=fff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=6366f1&height=40&section=header&text=%F0%9F%93%AC%20Connect&fontSize=22&fontColor=fff&animation=fadeIn" alt="Connect with Jahangir Alam"/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jahang-alam/"><img src="https://img.shields.io/badge/LinkedIn-jahang--alam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/silver1ce"><img src="https://img.shields.io/badge/GitHub-silver1ce-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/jahang-alam/"><img src="https://img.shields.io/badge/LinkedIn-jahang--alam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Jahangir Alam on LinkedIn"/></a>
+  <a href="https://github.com/silver1ce"><img src="https://img.shields.io/badge/GitHub-silver1ce-181717?style=for-the-badge&logo=github&logoColor=white" alt="Jahangir Alam GitHub profile silver1ce"/></a>
 </p>
 
 <br/>
 
 <!-- Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Building%20data%20platforms%20teams%20can%20trust%20%E2%80%94%20and%20AI%20teams%20can%20use.&fontSize=16&fontColor=fff&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Jahangir%20Alam%20%7C%20Data%20Engineer%20%26%20AI%20Builder&fontSize=16&fontColor=fff&animation=twinkling" alt="Jahangir Alam Data Engineer AI Builder"/>
 </p>
