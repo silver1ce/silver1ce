@@ -27,7 +27,7 @@
 
 ### 👋 Hi, I'm Jahangir
 
-Data Engineer & AI practitioner based in **Helsinki**, building production-grade data platforms and intelligent systems for Nordic clients at **Capgemini**.
+Data Engineer & AI practitioner based in **Helsinki**, building production-grade data platforms and intelligent systems for Nordic clients.
 
 - 🔭 Selected for **RIOT Labs AI Accelerator** — delivering AI-powered solutions across the Nordics
 - 🧠 Experienced with **LLMs, RAG, agentic AI (MCP)**, and Glean agent building
@@ -146,7 +146,7 @@ Databricks Data Engineer Associate · Lakehouse Fundamentals · Google Looker Sk
 <img src="https://capsule-render.vercel.app/api?type=soft&color=6366f1&height=40&section=header&text=%F0%9F%92%A1%20Currently&fontSize=22&fontColor=fff&animation=fadeIn"/>
 
 ```yaml
-🔭 Working on:  Production data pipelines & agentic AI solutions at Capgemini Nordics
+🔭 Working on:  Production data pipelines & agentic AI solutions across the Nordics
 🌱 Learning:    Event-driven architectures, dbt, and agent protocols (MCP / RAG / UCP)
 💬 Ask me about: Azure Databricks, ETL design, LLM integration, modern data stack
 ⚡ Fun fact:     I transitioned into data engineering after 12+ years in operations
